@@ -6,7 +6,7 @@
 
   </a>
   
-  <a href="https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/Sdfghkj/Auto-Filter-Bot-V2/fork">
     <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Sdfghkj/Auto-Filter-Bot-V2/edit/master/Readme.md/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -82,7 +82,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2
+git clone https://github.com/Sdfghkj/Auto-Filter-Bot-V2
 cd Adv-Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
